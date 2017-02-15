@@ -1,0 +1,22 @@
+{
+  "name": "gulpprojecttry",
+  "version": "1.0.0",
+  "description": "build automatic front-project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankSun1123/GulpProjectTry.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankSun1123/GulpProjectTry/issues"
+  },
+  "homepage": "https://github.com/FrankSun1123/GulpProjectTry#readme"
+}
